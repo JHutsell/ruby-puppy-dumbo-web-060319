@@ -1,8 +1,8 @@
 class Dog 
   
   def initialize(name)
-  
-end
+    @@all = []
+  end
   
   
   
